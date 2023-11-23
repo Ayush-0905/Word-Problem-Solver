@@ -9,8 +9,9 @@ To solve simple word problem
 
 
 # How to use it ?
- -Run main.py
+ -This code uses a classifier
  -Use python 3.7
+ -Run main.py in the Word_problem_solver
 
 # Dependencies
  -Tensorflow and Keras / Theano and keras
